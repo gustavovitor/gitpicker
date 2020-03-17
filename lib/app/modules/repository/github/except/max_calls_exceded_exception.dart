@@ -1,0 +1,1 @@
+class MaxCallExcededException implements Exception {}
